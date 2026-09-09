@@ -158,15 +158,6 @@ Power BI Dashboard
        ↓
 Streamlit Application
 
-# 🧠 Skill Extraction
-
-Skill extraction is the core part of this project.
-
-The main objective is to identify technical skills from job descriptions and convert the unstructured text into structured skill information.
-
-For example:
-
-### Input
 
 ```text
 We are looking for a Data Analyst with Python,
