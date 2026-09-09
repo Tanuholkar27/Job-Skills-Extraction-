@@ -1,0 +1,22 @@
+skill,category,aliases
+Python,Programming,python3
+SQL,Database,sql
+Java,Programming,
+C++,Programming,
+Power BI,Data Analytics,"powerbi, power-bi"
+Tableau,Data Analytics,
+Excel,Data Analytics,ms excel
+AWS,Cloud,
+Azure,Cloud,
+GCP,Cloud,
+TensorFlow,Machine Learning,
+PyTorch,Machine Learning,
+Pandas,Data Analytics,
+NumPy,Data Analytics,
+Scikit-learn,Machine Learning,scikit learn
+Spark,Data Analytics,
+Hadoop,Data Analytics,
+Docker,Cloud,
+Kubernetes,Cloud,
+Git,Programming,
+PostgreSQL,Database,"postgres, postgresql"
